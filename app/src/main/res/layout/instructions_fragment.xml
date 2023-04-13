@@ -9,6 +9,10 @@
             type="com.example.shoestore.screens.instructions.InstructionsFragment" />
     </data>
 
+<!-- Using ConstraintLayout will make the view heirarchy
+much simple here and we won't have to nest with another linear layout to keep
+the proceed button at the bottom while the instruction is on the top of the
+screen -->
 <androidx.constraintlayout.widget.ConstraintLayout 
     android:id="@+id/instructions_constraint_layout"
     android:layout_width="match_parent"

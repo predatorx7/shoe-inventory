@@ -30,6 +30,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
+        <!-- Using a linear layout because it helps readability here by keeping each section of form
+        separate in the code -->
 
         <LinearLayout
             android:id="@+id/linearLayout"
