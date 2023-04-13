@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Shoe Inventory</string>
+    <!-- sign in screen -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_in_or_register">Sign in or register</string>
+    <!-- onboarding screen -->
+    <string name="welcome_header">Shoe Inventory!</string>
+    <string name="welcome_body">This is a place where you can keep and access data about shoes whenever you want.</string>
+    <string name="proceed_button">Proceed</string>
+    <string name="instructions_header">Instructions</string>
+    <string name="back_button">Back</string>
+    <!-- details screen -->
+    <string name="shoe_listings">Shoe Listings</string>
+    <string name="add_shoe">Add Shoe</string>
+    <string name="header_shoe_information">Add Shoe Information</string>
+    <string name="shoe_name">Shoe Name:</string>
+    <string name="enter_shoe_name">Name of the shoe</string>
+    <string name="description">Description:</string>
+    <string name="brand_name">Brand Name:</string>
+    <string name="shoe_size">Shoe Size:</string>
+    <string name="enter_brand_name">Enter Brand Name</string>
+    <string name="enter_shoe_size">Enter Shoe Size</string>
+    <string name="enter_information">Enter Information</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="shoe_name_hint">Shoe Name</string>
+    <string name="company_name_hint">Brand Name</string>
+    <string name="shoe_size_hint">Shoe Size</string>
+    <string name="description_hint">Description</string>
+    <string name="instructions_step_one">1. To create a new shoe entry in your inventory, tap the + icon</string>
+    <string name="instructions_step_two">2. To store the shoe in your inventory, tap the Save Button.</string>
+    <string name="menu_item_signout">Sign out</string>
+</resources>
